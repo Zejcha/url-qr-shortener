@@ -68,5 +68,5 @@ Projekt jest w pełni skonteneryzowany i jego uruchomienie jest bardzo proste.
 
 
 ---
-*Autor: Dominik*
+*Autor: Dominik P.(https://github.com/Zejcha/url-qr-shortener.git)*
 
